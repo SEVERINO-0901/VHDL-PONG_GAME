@@ -1,7 +1,7 @@
 ## DADOS DO PROJETO
 - **Nome:** PongGame; 
 - **Autor:** Leonardo Severino - leoseverino0901@gmail.com;
-- **Data de Criação:** 21/08/2023 - 14:11:26;
+- **Data de Criação:** 30/10/2023 - 17:21:26;
  
 ## SOBRE
 - **Descrição:**
